@@ -1,5 +1,9 @@
 # React + Vite
 
+**Code Flip**
+
+Code Flip is a flashcards-based application designed to help tech enthusiasts brush their technical knowledge through flashcards. 
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
