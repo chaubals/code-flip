@@ -5,7 +5,7 @@ import { Route, Routes } from "react-router-dom";
 import { Authenticator } from "@aws-amplify/ui-react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "@aws-amplify/ui-react/styles.css";
-import Navbar from "./Components/Navbar"; // Import Navbar
+import Navbar from "./Components/Navbar";
 import HomePage from "./Components/HomePage";
 import Results from "./Components/Results";
 import Contact from "./Components/Contact";
