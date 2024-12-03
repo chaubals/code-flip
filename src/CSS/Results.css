@@ -1,0 +1,21 @@
+body {
+  background-color: #f8f9fa; /* Soft background for better contrast */
+}
+
+h2 {
+  color: #343a40; /* Darker color for headings */
+}
+
+.display-4 {
+  font-weight: bold;
+  font-size: 3rem;
+}
+
+button {
+  transition: transform 0.2s ease, background-color 0.3s ease;
+}
+
+button:hover {
+  transform: scale(1.05);
+  background-color: #28a745; /* Slightly darker green on hover */
+}
