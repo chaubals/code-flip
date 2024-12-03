@@ -11,20 +11,8 @@ const Navbar = ({ user, signOut }) => {
     >
       <div className="container-fluid">
         <Link to="/" className="navbar-brand text-light">
-          CodeFlip
+          CodeQuiz
         </Link>
-
-        <form className="d-flex" role="search">
-          <input
-            className="form-control me-2"
-            type="search"
-            placeholder="Search topic"
-            aria-label="Search"
-          />
-          <button className="btn btn-outline-success" type="submit">
-            Search
-          </button>
-        </form>
 
         <button
           className="navbar-toggler"

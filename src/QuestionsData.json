@@ -1,0 +1,72 @@
+[
+  {
+    "topic": "OOP",
+    "questionId": "H1",
+    "level": "Hard",
+    "question": "What is multiple inheritance and is it supported in Java?",
+    "options": [
+      "A class inheriting from multiple classes, and it's supported",
+      "A class inheriting from multiple classes, but it's not supported directly",
+      "A class inheriting properties from itself, and it's supported",
+      "None of the above"
+    ],
+    "answer": "A class inheriting from multiple classes, but it's not supported directly",
+    "hint": "Java uses interfaces to achieve this indirectly."
+  },
+  {
+    "topic": "OOP",
+    "questionId": "H2",
+    "level": "Hard",
+    "question": "What is the difference between composition and inheritance?",
+    "options": [
+      "Inheritance uses 'has-a' relation, composition uses 'is-a'",
+      "Inheritance uses 'is-a' relation, composition uses 'has-a'",
+      "Both are the same",
+      "None of the above"
+    ],
+    "answer": "Inheritance uses 'is-a' relation, composition uses 'has-a'",
+    "hint": "Inheritance extends a class, composition includes objects of other classes."
+  },
+  {
+    "topic": "OOP",
+    "questionId": "H3",
+    "level": "Hard",
+    "question": "What is the SOLID principle in OOP?",
+    "options": [
+      "Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, Dependency Inversion",
+      "Standard Object-Level Integration Design",
+      "Simplified Objects Linked by Interfaces and Data",
+      "None of the above"
+    ],
+    "answer": "Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, Dependency Inversion",
+    "hint": "It ensures maintainable and scalable OOP designs."
+  },
+  {
+    "topic": "OOP",
+    "questionId": "H4",
+    "level": "Hard",
+    "question": "What is the purpose of the 'final' keyword in Java?",
+    "options": [
+      "To declare constants",
+      "To prevent method overriding or inheritance",
+      "To ensure immutability",
+      "All of the above"
+    ],
+    "answer": "All of the above",
+    "hint": "It has multiple uses in the language."
+  },
+  {
+    "topic": "OOP",
+    "questionId": "H5",
+    "level": "Hard",
+    "question": "What is the diamond problem in OOP?",
+    "options": [
+      "A problem with ambiguous inheritance in multiple inheritance",
+      "An issue with private members in derived classes",
+      "A problem with abstract classes",
+      "None of the above"
+    ],
+    "answer": "A problem with ambiguous inheritance in multiple inheritance",
+    "hint": "Occurs when a class inherits from two classes with a common ancestor."
+  }
+]
